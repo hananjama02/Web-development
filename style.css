@@ -1,0 +1,28 @@
+.sei{
+    margin: 50px;
+}
+ .btn{
+    background-color: firebrick;
+    color: antiquewhite;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-left: 225px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+.btn:hover{
+    background-color: blanchedalmond;
+    color: brown;
+}
+h1{
+    font-size: 25px;
+    align-items: center;
+    margin-left: 10%;
+
+}
+input{
+background-color: lightgray;
+border-radius: 7px;
+
+}
